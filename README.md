@@ -15,6 +15,8 @@ GitHub Copilot CLI brings AI assistance directly to your terminal. Instead of sw
 
 Think of it as having a knowledgeable colleague available 24/7 who can read your code, explain confusing patterns, and help you work faster!
 
+> 📘 **Prefer a web experience?** You can follow this course right here on GitHub, or view it on [Awesome Copilot](https://awesome-copilot.github.com/learning-hub/cli-for-beginners/) for a more traditional browsing experience.
+
 This course is designed for:
 
 - **Software Developers** who want to use AI from the command line
