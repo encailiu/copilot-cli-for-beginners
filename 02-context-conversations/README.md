@@ -470,6 +470,10 @@ copilot
 
 > /share gist
 # Creates a GitHub gist with the session
+
+> /share html
+# Exports session as a self-contained interactive HTML file
+# Useful for sharing polished session reports with teammates or saving for reference
 ```
 
 </details>
